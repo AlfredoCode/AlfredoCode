@@ -7,7 +7,9 @@ I am focused on Frontend side of websites.
 
 My Tech Stack is currently **HTML**, **CSS**, **PHP**, **MySQL**, **Javascript**, **C**.
 
-I love studying new technologies, right now I am learning **React** and in the future I would like to learn **Vue.js** and **Angular** as well.
+I love studying new technologies. 
+
+Right now I am learning **React** and in the future I would like to learn **Vue.js** and **Angular** as well.
 
 
 
