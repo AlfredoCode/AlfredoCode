@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oh, hello :file_folder:
 
-<!--
-**AlfredoCode/AlfredoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Dominik Hofman and I am a student at the **Faculty of Information Technology, Brno University of Technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focused on Frontend side of websites.
+
+My Tech Stack is currently **HTML**, **CSS**, **PHP**, **MySQL**, **Javascript**, **C**.
+
+I love studying new technologies, right now I am learning **React** and in the future I would like to learn **Vue.js** and **Angular** as well.
+
+
+
+[![AlfredoCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoCode&count_private=true&hide=contribs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&disable_animations=true)](https://github.com/AlfredoCode)
+
+[![AlfredoCode's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoCode&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/AlfredoCode)
