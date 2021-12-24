@@ -5,7 +5,7 @@ My name is Dominik Hofman and I am a student at the **Faculty of Information Tec
 
 I am focused on Frontend side of websites.
 
-My Tech Stack is currently **HTML**, **CSS**, **PHP**, **MySQL**, **Javascript**, **C**.
+My Tech Stack is currently **HTML**, **CSS**, **PHP**, **MySQL**, **JavaScript**, **C**.
 
 I love studying new technologies. 
 
