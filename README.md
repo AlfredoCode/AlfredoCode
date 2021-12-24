@@ -1,4 +1,4 @@
-### Oh, hello :file_folder:
+### Oh, hi there :file_folder:
 
 
 My name is Dominik Hofman and I am a student at the **Faculty of Information Technology, Brno University of Technology**.
