@@ -3,13 +3,13 @@
 
 My name is Dominik Hofman and I am a student at the **Faculty of Information Technology, Brno University of Technology**.
 
-I am focused on Frontend side of websites.
+I am mainly focused on frontend side but yeah... I do fullstack 😆
 
-My Tech Stack is currently **HTML**, **CSS**, **PHP**, **MySQL**, **JavaScript**, **C**, **Swift & SwiftUI - basics**.
+My Tech Stack is currently **React**, **Python**, **SQL**, **NodeJS**, **C**, **C#** and many more.
 
 I love studying new technologies. 
 
-Right now I am learning **React** and in the future I would like to learn **Vue.js** and **Angular** as well.
+Currently improving my **React** knowledge.
 
 
 
